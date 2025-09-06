@@ -11,7 +11,7 @@ Mani:
 Prativa:
 
 # Chapter 3
-Nisha:
+Nisha: If you can change your mind, you can change your life.
 
 # Chapter 4
 Ankit:
