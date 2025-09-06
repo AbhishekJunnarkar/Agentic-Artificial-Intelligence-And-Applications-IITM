@@ -13,7 +13,7 @@ Prativa: A journey is full of energy, every step giving new hope and excitement.
 It’s not just walking ahead, it’s moving with passion and strength.
 
 # Chapter 3
-Nisha:
+Nisha: If you can change your mind, you can change your life.
 
 # Chapter 4
 Ankit:
