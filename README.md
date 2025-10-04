@@ -7,7 +7,7 @@ Join me on this journey of building cutting-edge Agentic AI systems!
 
 ## Projects
 
-Explore the collection of AI agent projects I am working on. These range from basic agentic systems to more advanced, autonomous solutions that integrate large language models, multi-agent systems, and real-time decision-making frameworks.
+Explore the collection of AI agent [projects](https://github.com/AbhishekJunnarkar/Agentic-Artificial-Intelligence-And-Applications-IITM/blob/main/Projects.md) I am working on. These range from basic agentic systems to more advanced, autonomous solutions that integrate large language models, multi-agent systems, and real-time decision-making frameworks.
 
 ## Core Design Principles
 
