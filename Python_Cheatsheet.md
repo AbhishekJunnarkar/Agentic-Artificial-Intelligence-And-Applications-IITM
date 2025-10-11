@@ -1,4 +1,6 @@
 https://wiki.python.org/moin/BeginnersGuide
+- https://wiki.python.org/moin/BeginnersGuide/Programmers
+
 https://www.w3schools.com/python/  
 https://docs.python.org/3/    
 https://peps.python.org/pep-0020/  
