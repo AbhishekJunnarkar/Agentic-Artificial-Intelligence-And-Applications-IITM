@@ -33,3 +33,5 @@ def get_weather(city_name, api_key):
         return weather
     else:
         return {'error': 'City not found or invalid API key.'}
+
+print(get_weather('Glasgow',''))
