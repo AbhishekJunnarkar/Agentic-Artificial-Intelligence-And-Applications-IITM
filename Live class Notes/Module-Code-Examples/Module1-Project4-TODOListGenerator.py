@@ -1,0 +1,6 @@
+prompt1 = 'Any python code you provide should be formatted such that it can be easily run in jupyter notebook'
+prompt2 = 'Each function and logical block of code should be a separate block of code that i can copy paste'
+prompt3 = 'Also ensure that there is plenty of code comments'
+prompt4 = 'Help me make a simple TODO List app. Use a menu driven interface (e.g. numbers for choices: 1. Add Task, 2. add status'
+prompt5 = ''
+prompt6 = ''
